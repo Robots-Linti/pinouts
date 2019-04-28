@@ -1,0 +1,34 @@
+Digitales
+
+13  SCK     LED_BUILTIN
+12  MISO
+11  MOSI
+10  SS
+~9
+8   M1_D1
+7   SDA
+~6
+~5
+4   M1_D0
+~3   M1_EN
+2   SCL
+1
+
+Analógicos
+
+A0  D14
+A1  D15
+A2  D16
+A3  D17
+A4  D18
+A5  D19
+A6  D24     BATTERY
+
+Internos
+
+25  RUN_SW
+23  SPEAKER
+~22  M0_EN
+21  M0_D1
+20  M0_D0
+
