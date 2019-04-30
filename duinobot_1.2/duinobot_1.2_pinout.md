@@ -13,6 +13,7 @@ Digitales
 ~3   M1_EN
 2   SCL
 1
+0
 
 Analógicos
 

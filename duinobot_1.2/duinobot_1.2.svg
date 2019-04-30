@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="165.80145"
-     inkscape:cy="307.05317"
+     inkscape:zoom="5.6"
+     inkscape:cx="256.69431"
+     inkscape:cy="84.731741"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
@@ -498,8 +498,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-44.220966,-82.318117)"
-     style="display:inline;opacity:0.9"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.9">
     <g
        id="g5163">
       <rect
@@ -717,7 +716,7 @@
              id="tspan1079"
              x="146.09258"
              y="158.06253"
-             style="font-size:2.11666656px;stroke-width:0.26458332px">RX</tspan></text>
+             style="font-size:2.11666656px;stroke-width:0.26458332px">TX</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -728,7 +727,7 @@
              id="tspan1079-2"
              x="146.28842"
              y="160.90263"
-             style="font-size:2.11666656px;stroke-width:0.26458332px">TX</tspan></text>
+             style="font-size:2.11666656px;stroke-width:0.26458332px">RX</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:125%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
